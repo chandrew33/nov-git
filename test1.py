@@ -1,2 +1,2 @@
 print ("hello world")
-echo "test paper - push"
+echo "test paper - (pull)"
